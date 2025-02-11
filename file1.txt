@@ -6,3 +6,5 @@ I have changed this file from feature branch.
 This is the change made from hotfix branch.
 
 Making a different change from hotfix
+
+One for my master
