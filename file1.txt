@@ -1,6 +1,8 @@
 This is my first file.
 
 This is the update done from feature branch.
+
+I have changed this file from feature branch.
 This is the change made from hotfix branch.
 
 Making a different change from hotfix
